@@ -12,4 +12,4 @@ after you `git clone` the plugins into that folder, it will be automatically ena
 
 ## the customization
 
-all the customization would be in `my_configs.vim` file, including overwrite, deletion or addition.
+all the customization would be in `my_configs.vim` file under `~/.vim_runtime/`, including overwrite, deletion or addition.
