@@ -1,5 +1,5 @@
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" This is my config overwrite and newly added 
+" This is my config overwrite and newly added
 "
 " When adding plugins, please notice the 'customized' path for plugins
 " it's './vim_runtimes/my_plugins/*'
@@ -14,6 +14,24 @@
 
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+set nu
+
+""""""""""""""""""""""""
+" autocomplete java
+""""""""""""""""""""""""
+
+" autocmd FileType java setlocal omnifunc=javacomplete#Complete
+
+
+"""""""""""""""""""""""
+" quick map to move tabs
+""""""""""""""""""""""""
+
+nmap <A-Left> :tabprevious<cr>
+nmap <A-Right> :tabnext<cr>
+
+""""""""""""""""""""""""
 
 unlet g:ctrlp_map
 
