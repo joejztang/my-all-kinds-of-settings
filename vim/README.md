@@ -12,8 +12,8 @@ after you `git clone` the plugins into that folder, it will be automatically ena
 
 ## current plugins added
 
-[jedi-vim](https://github.com/davidhalter/jedi-vim)
-[indentLine](https://github.com/Yggdroot/indentLine#installation)
+* [jedi-vim](https://github.com/davidhalter/jedi-vim)
+* [indentLine](https://github.com/Yggdroot/indentLine#installation)
 
 ## the customization
 
