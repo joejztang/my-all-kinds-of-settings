@@ -42,8 +42,3 @@ unlet g:ctrlp_map
 let g:NERDTreeWinPos = "left"
 let g:NERDTreeWinSize=35
 nmap <C-n> :NERDTreeToggle<cr>
-
-""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" gitgutter
-""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-let g:gitgutter_enabled = 1
